@@ -1,1 +1,1 @@
-"Client"'s purpsoe was to be used as a test for connectivity before the masking of the interfacing began, but I still included it for those interested!
+"Client"'s purpose was to be used as a test for connectivity before the masking of the interfacing began, but I still included it for those interested!
